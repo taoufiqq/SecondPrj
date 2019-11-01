@@ -6,7 +6,8 @@ wait wait what we can do  now
 
 
 hellow world!!
-
+Goodbay world !!!
+we're hear to learn
 
 les commandes git
 =======
